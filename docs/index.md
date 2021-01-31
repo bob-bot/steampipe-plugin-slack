@@ -18,9 +18,7 @@ The Slack plugin is used to query conversations, users and other data.
 Download and install the latest Slack plugin:
 
 ```bash
-$ steampipe plugin install slack
-Installing plugin slack...
-$
+steampipe plugin install slack
 ```
 
 
